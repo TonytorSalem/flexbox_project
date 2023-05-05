@@ -95,11 +95,14 @@
   .footer-one,
   .footer-three {
     background-color: #5995DA;
-    flex: initial;
-    width: 300px;
+   
   }
   .footer2h1{
     text-align: center;
     font-size: xx-large;
     padding-top: 100px;
+  }
+  .footer > .footer-two{
+  
+    flex: 3;
   }
